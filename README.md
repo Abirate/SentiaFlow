@@ -29,8 +29,6 @@ SentiaFlow is a proactive, on-device wellness companion designed to bring sophis
   * **Fully Offline:** Once the model is downloaded, the app's core features work perfectly without an internet connection.
   * **Engineered for Accessibility:** Optimized to run smoothly on entry-level Android devices, ensuring advanced AI is accessible to everyone.
 
-## **📸 Screenshots**
-
 ## **🏛️ Technical Architecture & Stack**
 
 SentiaFlow is built with Flutter and engineered for robustness and scalability. The architecture follows a clear separation of concerns.
