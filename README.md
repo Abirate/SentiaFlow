@@ -17,7 +17,7 @@ SentiaFlow is a proactive, on-device wellness companion designed to bring sophis
 -----
 
 ## **🎥 Video Demo**
-
+The video demo is available here and has already been integrated into the submission [video_demo_sentia_flow](https://youtu.be/nbQL5s7CbiE?si=ismssEVfFCnsPvlt)
 
 
 ## **✨ Key Features**
