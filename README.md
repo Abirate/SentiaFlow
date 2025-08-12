@@ -4,9 +4,10 @@
 [![Flutter](https://img.shields.io/badge/Made%20with-Flutter-%2302569B?logo=flutter)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Language-Dart-%230175C2?logo=dart)](https://dart.dev/)
 [![Platform](https://img.shields.io/badge/Platform-Android-%233DDC84?logo=android)](https://www.android.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 [![AI Model](https://img.shields.io/badge/AI%20Model-Gemma%203n-%234285F4?logo=google)](https://ai.google.dev/gemma)
+[![Core AI Package](https://img.shields.io/badge/Core%20AI%20Package-flutter_gemma-purple)](https://pub.dev/packages/flutter_gemma)
 [![UI/UX](https://img.shields.io/badge/UI/UX-ScreenUtil-blueviolet)](https://pub.dev/packages/flutter_screenutil)
 [![State Management](https://img.shields.io/badge/State%20Management-Provider-blue)](https://pub.dev/packages/provider)
 
@@ -105,9 +106,9 @@ This is just the beginning. As the on-device AI ecosystem evolves, so will Senti
   * **Real-Time Coaching:** With future support for video streams in `flutter_gemma`, ActiveFlow will evolve into a real-time coach for fitness and physical therapy.
   * **Mental Wellness Support:** With upcoming audio modality support, we plan to introduce a private, on-device companion for mental wellness, capable of analyzing sentiment and offering supportive feedback.
 
-## **📜 License**
+## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache License 2.0. See `LICENSE` for more information.
 
 ## **Acknowledgments**
 
